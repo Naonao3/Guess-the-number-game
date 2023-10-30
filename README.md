@@ -1,4 +1,4 @@
-# Guess-the-number-game
+# Guess the number game
 
 ## 概要
 プレイヤーが選択した二つの異なる数値の間からランダムに選ばれた数値を当てるゲームです。</br>
